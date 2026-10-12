@@ -2,7 +2,7 @@ class Cairn < Formula
   desc "Find the right Claude Code session and hop back into it"
   homepage "https://github.com/habibulloxon/cairn-cli"
   url "https://github.com/habibulloxon/cairn-cli/releases/download/v0.1.0/cairn-0.1.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "bad56e37339228852c0f17bc21b14a2d09229176be876edb443e1a66d9202a11"
   license "MIT"
 
   depends_on "python@3.13"
